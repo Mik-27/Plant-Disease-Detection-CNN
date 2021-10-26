@@ -1,0 +1,16 @@
+.navbar {
+    background-color: teal !important
+}
+
+.form-label {
+    color: rgb(43, 43, 43);
+}
+
+#predict {
+    color: white;
+    background-color: teal;
+}
+
+.Image {
+    background-image: url('../../uploads/images/test.jpg');
+}
